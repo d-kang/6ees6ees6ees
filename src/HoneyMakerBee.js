@@ -14,5 +14,5 @@ class HoneyMakerBee extends Bee {
   }
 };
 
-var honeyMakerBee = new HoneyMakerBee();
+const honeyMakerBee = new HoneyMakerBee();
 console.log({honeyMakerBee});

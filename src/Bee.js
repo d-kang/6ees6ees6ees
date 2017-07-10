@@ -16,5 +16,7 @@ class Bee extends Grub {
 
 // super mdn docs https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super
 
-var bee = new Bee();
+// extends https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends
+
+const bee = new Bee();
 console.log({bee});

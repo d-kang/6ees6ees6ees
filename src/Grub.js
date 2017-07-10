@@ -12,5 +12,5 @@ class Grub {
 
 };
 
-var grub = new Grub();
+const grub = new Grub();
 console.log({grub})

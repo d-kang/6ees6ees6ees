@@ -11,5 +11,5 @@ class ForagerBee extends Bee {
   }
 };
 
-var foragerBee = new ForagerBee();
+const foragerBee = new ForagerBee();
 console.log({foragerBee});
