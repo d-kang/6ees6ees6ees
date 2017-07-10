@@ -1,6 +1,6 @@
 class HoneyMakerBee extends Bee {
   constructor() {
-    // when you call constructor you must also call super();
+    // when you extend a class and call constructor you must also call super();
     super();
     this.age = 10;
     this.job = 'make honey';
